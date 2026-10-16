@@ -51,6 +51,8 @@ Physical resources used to build Quantium Computers,
 - [QuArC](http://research.microsoft.com/en-us/groups/quarc/default.aspx): Quantum Architectures and Computation.
 
 
+- [QEC Evidence Auditor — Standard Mathematical V1](https://github.com/cxclrfx/QEC-Evidence-Auditor): Technical showcase of proprietary offline programs for auditing and verifying mathematical quantum error-correction artifacts.
+
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-synthetic-biology/blob/master/contributing.md).
